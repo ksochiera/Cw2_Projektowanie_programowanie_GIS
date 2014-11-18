@@ -1,0 +1,15 @@
+pieczywo   3.5
+quesadilla 16.5
+hamburger 11.5
+salatka_grecka 12.0
+salataka_z_tunczykiem 11.0
+lasagne_spinaci 15.0
+Crema_Funghi 25.5
+zupa_cebulowa 6.0
+frytki 7.0
+szarlotka 8.0
+pepsi 6.0
+sprite 5.0
+tymbark 5.0
+kawa 4.0
+herbata 4.0
